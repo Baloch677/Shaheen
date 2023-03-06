@@ -22,6 +22,10 @@ font-size: 40px;
 color: rgb(92, 141, 173);
 }
 
+h1:hover{
+    color: rgba(58, 73, 83, 0.74);
+}
+
 p1{
     font-size: 25px;
     color: rgb(55, 61, 65);
