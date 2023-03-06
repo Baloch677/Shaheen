@@ -7,13 +7,20 @@
     justify-content: space-between;
 }
 
+.logo{
+    border: solid;
+    border-color: brown;
+}
+
+
 h1{
 font-size: 35px;
 color: rgb(92, 141, 173);
 }
 
 .navbar {
-   
+   border: solid;
+   border-color: brown;
     
 }
 
@@ -36,6 +43,9 @@ li{
     position: relative;
     text-align: center;
     color: rgb(253, 250, 250);
+    margin-top: 15px;
+    border: solid;
+    border-color: brown;
     
     
 }
@@ -45,6 +55,8 @@ li{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 35%;
+    border: solid;
+    border-color: brown;
     
 
     
@@ -53,13 +65,23 @@ li{
 .Welcome{
     font-size: 50px;
     color: black;
-    font-weight: bold;
     font-style: italic;
 }
 
 .welcome-body{
     font-size: 30px;
+    font-weight: 500;
     
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    border: solid;
+    border-color: brown;
+    margin-top: 50px;
 
 }
 
