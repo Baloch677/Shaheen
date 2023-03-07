@@ -52,6 +52,7 @@ a{
 }
 a:hover{
     color:rgb(116, 169, 219) ;
+    font-size: larger;
 }
 
 
@@ -75,6 +76,11 @@ li{
 img{
     height: 750px;
     width: 650px;
+}
+
+img:hover{
+    height: 800px;
+    width: 700px;
 }
 
 .footer{
