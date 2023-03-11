@@ -64,6 +64,8 @@ li{
 .Services{
     font-size: 50px;
     padding-bottom: 50px;
+    border: solid;
+    border-color: brown;
     
 }
 
@@ -77,6 +79,11 @@ li{
     border-color: brown;
 }
 
+img:hover{
+height: 750px;
+width: 800px;
+}
+
 .footer{
     display: flex;
     justify-content: center;
@@ -85,6 +92,7 @@ li{
     border-color: brown;
     margin-top: 50px;
     color: rgb(98, 102, 102);
+    align-items: end;
 
 }
 
