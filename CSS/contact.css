@@ -10,11 +10,7 @@
     flex-wrap: wrap;
 }
 
-.logo{
-    border: solid;
-    border-color: brown;
-    
-}
+
 
 
 h1{
@@ -32,10 +28,6 @@ p1{
 }
 
 
-.navbar {
-   border: solid;
-   border-color: brown;
-}
 
 ul{
     
@@ -68,8 +60,6 @@ li{
     justify-content: space-around;
     margin-top: 50px;
     margin-bottom: 50px;
-    border: solid;
-    border-color: brown;
 
 }
 
@@ -87,8 +77,6 @@ img:hover{
     display: flex;
     justify-content: center;
     font-size: 25px;
-    border: solid;
-    border-color: brown;
     margin-top: 50px;
     color: rgb(98, 102, 102);
     align-items: end;

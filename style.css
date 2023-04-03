@@ -10,11 +10,7 @@
     flex-wrap: wrap;
 }
 
-.logo{
-    border: solid;
-    border-color: brown;
-    
-}
+
 
 
 h1{
@@ -32,10 +28,6 @@ p1{
 }
 
 
-.navbar {
-   border: solid;
-   border-color: brown;
-}
 
 ul{
     
@@ -54,6 +46,7 @@ a:hover{
     color:rgb(116, 169, 219) ;
 }
 
+
 li{
     display: inline;
     margin: 25px;
@@ -62,9 +55,11 @@ li{
 }
 
 .body-container img{
-    height: 800px;
-    width: 1300px;
+    height: 750px;
+    width: 1250px;
     opacity: 0.9;
+    flex-wrap: wrap;
+    
     
     
 }
@@ -73,8 +68,6 @@ li{
     text-align: center;
     color: rgb(253, 250, 250);
     margin-top: 15px;
-    border: solid;
-    border-color: brown;
     display: flex;
     flex-wrap: wrap;
     
@@ -88,8 +81,6 @@ li{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 35%;
-    border: solid;
-    border-color: brown;
     
 
     
@@ -112,8 +103,6 @@ li{
     display: flex;
     justify-content: center;
     font-size: 25px;
-    border: solid;
-    border-color: brown;
     margin-top: 50px;
     color: rgb(98, 102, 102);
 

@@ -63,6 +63,58 @@ li{
 }
 
 
+.body-container{
+    
+    
+    margin: 100px 10px 100px 10px;
+    border: solid;
+    border-color: brown;
+}
+
+.About{
+    font-size: 50px;
+    padding-bottom: 50px;
+    border: solid;
+    border-color: brown;
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+.body{
+    display: flex;
+    
+   
+}
+
+.body img{
+    border-radius: 50%;
+    justify-content: flex-start;
+    border: solid;
+    border-color: brown;
+    
+    
+}
+
+.body-text{
+    
+    
+    
+    border: solid;
+    border-color: brown;
+    margin-left: 50%;
+}
+
+
+
+
+
+
+
+
+
+
 .footer{
     display: flex;
     justify-content: center;
